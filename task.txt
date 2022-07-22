@@ -1,0 +1,12 @@
+// create route for user to register
+// route should accept these params - /:username/:passwordOne/:passwordTwo
+// VALIDATIONS
+// username is more than 3 symbols and less than 20
+// passwords match, passwords is more than 3 and less than 20 symbols
+// there should be only one user with same name in array
+// (if validation is bad, send error message to front end, if all good send success message)
+// if user credentials is ok, create user and add it to all users array
+// create route for user login
+// route should accept these params - /:username/:password
+// if user exists, send user object as response
+// if user does not exist send error message

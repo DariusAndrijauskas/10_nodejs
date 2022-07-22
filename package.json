@@ -1,0 +1,20 @@
+{
+  "name": "10_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aliexpress-scraper": "^0.1.2",
+    "cors": "^2.8.5",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "random-animal-name": "^0.1.1",
+    "shortid": "^2.2.16"
+  }
+}
